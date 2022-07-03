@@ -6,7 +6,7 @@ function App() {
     <LetrasProvider > {/* EL PROVIDER SIEMPRE DEBE RODEAR NUESTRA APP PARA QUE TODOS LOS COMPONENTES TENGAN ACCESO */}
       <AppLetras />
     </LetrasProvider>
-  )
+  ) 
 }
 
 export default App
